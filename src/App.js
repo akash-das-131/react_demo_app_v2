@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Start Project
+          Start Project react
         </a>
       </header>
     </div>
